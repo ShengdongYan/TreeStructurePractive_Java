@@ -1,2 +1,6 @@
 # TreeStructurePractive_Java
-基于Java的所有关于树结构的练习，包括普通树，BST和AVL Tree的各种练习。
+------
+
+**十个基于Java的所有关于树结构的练习，包括普通树，BST和AVL Tree的加入/删除新元素，寻找最大值，最小值，postorder,preorder打印遍历等等操作。
+这十个练习的题目在PDF里，代码在worksheet2里，还包括了一个二叉树的标准结构类。**
+
