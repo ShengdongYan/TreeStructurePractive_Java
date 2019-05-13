@@ -5,7 +5,7 @@
  * @author Alexandros Evangelidis
  */
 
-public class Worksheet2 implements Worksheet2Interface {
+public class Worksheet2  {
 
 	// Exercise 1
 
